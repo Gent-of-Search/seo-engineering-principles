@@ -1,1 +1,1 @@
-# seo-engineering-principles
+# SEO Engineering Principles
