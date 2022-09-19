@@ -1,4 +1,4 @@
-# SEO Engineering Principles
+# SEO & Engineering Principles
 
 The SEO & Engineering Pricinples have been inspired by the original 12 principles of the Agile manifesto. Although this document was published in 2001, the values and principles are still being used by leading product and engineering teams (Artsy, Skyscanner and Intercom) to influence how they work together.
 
