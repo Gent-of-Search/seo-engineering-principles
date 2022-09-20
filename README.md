@@ -7,6 +7,14 @@ The principles outlined below are not meant to be an exhaustive list but instead
 These set of shared beliefs need to be agreed by teams so that they are aligned on a structured way of working.
 Any principles that are agreed need to be continuously updated and reviewed by the SEO and engineering team.
 
+🚨 Warning 🚨
+
+The principles I’ve written in this newsletter are not a quick way to solve all problems between development or product teams. Not all business team structures are not designed to work with these principles or concepts.
+
+It’s important to get consent and agreement within your team to work towards a set of agreed principles. This doesn’t mean that you can’t try out these principles and see if they work in your day-to-day but keep in mind that the purpose of team principles is to be clear about how you work.
+
+🚨 Warning 🚨
+
 ## The top priority is to solve user problems
 
 The SEO and development teams focus on solving user problems, not just shipping deliverables. The SEO team ruthlessly prioritise tasks and projects to focus on changing user behaviour that drive business results.
