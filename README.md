@@ -7,6 +7,8 @@ The principles outlined below are not meant to be an exhaustive list but instead
 These set of shared beliefs need to be agreed by teams so that they are aligned on a structured way of working.
 Any principles that are agreed need to be continuously updated and reviewed by the SEO and engineering team.
 
+For a detailed explanation of these principles visit: https://www.theseosprint.com/p/seo-and-engineering-principles
+
 🚨 Warning 🚨
 
 The principles below are not a quick way to solve all problems between development or product teams. Not all business team structures are not designed to work with these principles or concepts.
